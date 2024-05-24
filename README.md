@@ -1,5 +1,5 @@
 # Instagram-Sentiment-Analysis
-Analyze Instagram Media/Posts to find the sentiment score on the comments. It is a service that can be deployed on a server or in the cloud. It makes use of Python's Flask Framework for handling HTTP requests, PyMongo for saving the scores of the analysis of each media for further analysis, and Google's NLP for the comment sentiments.   
+This application analyzes Instagram Media/Posts to find the sentiment score on the comments. It is a service that can be deployed on a server or in the cloud. It makes use of Python's Flask Framework for handling HTTP requests, PyMongo for saving the scores of the analysis of each media for further analysis, and Google's NLP for the comment sentiments.   
 
 
 # To Use It
